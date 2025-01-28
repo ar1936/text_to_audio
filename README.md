@@ -11,4 +11,4 @@ Original source: [Nix-TTS](https://github.com/openai/nix-tts) (Add the correct r
 - Added silence intervals between chunks
 
 ## Personal Use Only
-This is a private repository for learning and personal development purposes.
+This is a private repository for learning and personal development purposes.## Setup Instructions
